@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/.github.io/music/static/css/main.10d19844.chunk.css",
+    "main.js": "/.github.io/music/static/js/main.533a1ef1.chunk.js",
+    "main.js.map": "/.github.io/music/static/js/main.533a1ef1.chunk.js.map",
+    "runtime-main.js": "/.github.io/music/static/js/runtime-main.efd5be4b.js",
+    "runtime-main.js.map": "/.github.io/music/static/js/runtime-main.efd5be4b.js.map",
+    "static/js/2.ace8b4a0.chunk.js": "/.github.io/music/static/js/2.ace8b4a0.chunk.js",
+    "static/js/2.ace8b4a0.chunk.js.map": "/.github.io/music/static/js/2.ace8b4a0.chunk.js.map",
+    "index.html": "/.github.io/music/index.html",
+    "precache-manifest.53a91575dc4208d9a96f1a10a79b8039.js": "/.github.io/music/precache-manifest.53a91575dc4208d9a96f1a10a79b8039.js",
+    "service-worker.js": "/.github.io/music/service-worker.js",
+    "static/css/main.10d19844.chunk.css.map": "/.github.io/music/static/css/main.10d19844.chunk.css.map",
+    "static/js/2.ace8b4a0.chunk.js.LICENSE.txt": "/.github.io/music/static/js/2.ace8b4a0.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/.github.io/music/static/media/1.1b25d23a.jpg",
+    "static/media/2.jpg": "/.github.io/music/static/media/2.38e629fa.jpg",
+    "static/media/3.jpg": "/.github.io/music/static/media/3.962ffd23.jpg",
+    "static/media/4.jpg": "/.github.io/music/static/media/4.01ff1a74.jpg",
+    "static/media/5.jpg": "/.github.io/music/static/media/5.a3851c0f.jpg",
+    "static/media/6.jpg": "/.github.io/music/static/media/6.5cacdb0c.jpg",
+    "static/media/7.jpg": "/.github.io/music/static/media/7.f2011b9a.jpg",
+    "static/media/Alan Walker - Sing Me To Sleep.webm": "/.github.io/music/static/media/Alan Walker - Sing Me To Sleep.d50462b2.webm",
+    "static/media/Alan Walker - The Spectre.webm": "/.github.io/music/static/media/Alan Walker - The Spectre.c60d0960.webm",
+    "static/media/Alan Walker -Alone.webm": "/.github.io/music/static/media/Alan Walker -Alone.cb2963e3.webm",
+    "static/media/Ed Sheeran - Beautiful People.webm": "/.github.io/music/static/media/Ed Sheeran - Beautiful People.be4973e3.webm",
+    "static/media/Ed Sheeran - Perfect.webm": "/.github.io/music/static/media/Ed Sheeran - Perfect.5866eb87.webm",
+    "static/media/Eminem - Lucky You.webm": "/.github.io/music/static/media/Eminem - Lucky You.916d24c8.webm",
+    "static/media/I Don't Care.webm": "/.github.io/music/static/media/I Don't Care.4cad9a37.webm",
+    "static/media/Imagine Dragons - Natural.webm": "/.github.io/music/static/media/Imagine Dragons - Natural.8419a69d.webm",
+    "static/media/Imagine Dragons - Whatever It Takes.webm": "/.github.io/music/static/media/Imagine Dragons - Whatever It Takes.b7ec5895.webm",
+    "static/media/Marshmello - Alone.webm": "/.github.io/music/static/media/Marshmello - Alone.b912b3c9.webm",
+    "static/media/Marshmello ft. Bastille - Happier.webm": "/.github.io/music/static/media/Marshmello ft. Bastille - Happier.f5559abb.webm"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efd5be4b.js",
+    "static/js/2.ace8b4a0.chunk.js",
+    "static/css/main.10d19844.chunk.css",
+    "static/js/main.533a1ef1.chunk.js"
+  ]
+}
